@@ -1,2 +1,2 @@
 plotly==4.9.0
-bs4==4.10.0
+beatifulsoup4==4.10.0
