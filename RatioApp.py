@@ -5,6 +5,7 @@ import plotly.express as px
 import plotly.figure_factory as ff
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
+import matplotlib.pyplot as plt
 import requests
 pd.set_option('display.float_format', lambda x: '%.5f' % x)
 plt.style.use('fivethirtyeight')
